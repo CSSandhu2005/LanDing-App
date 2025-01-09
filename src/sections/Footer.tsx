@@ -31,7 +31,7 @@ export const Footer = () => {
           <Insta />
         </div>
         <p>
-          &copy; 2025 Made My Chiranjeev Singh Sandhu
+          &copy; 2025 Made By Chiranjeev Singh Sandhu
         </p>
       </div>
     </footer>
