@@ -60,8 +60,8 @@ export const Pricing = () => {
     <section className="py-24 bg-white">
       <div className="container">
         <div className="section-heading">
-          <h2 className="section-title">Pricing</h2>
-          <p className="section-description mt-5">
+          <h2 className="title">Pricing</h2>
+          <p className="para mt-5">
             Free forever. Upgrade for unlimited tasks, better security, and
             exclusive features.
           </p>
